@@ -1,0 +1,7 @@
+#Sun Dec 18 14:19:39 IST 2022
+base.0=/Users/machd/Desktop/Wafer/Unsplash/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+base.1=/Users/machd/Desktop/Wafer/Unsplash/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

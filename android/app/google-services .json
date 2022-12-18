@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "453352394549",
+    "firebase_url": "https://vyom-firebase.firebaseio.com",
+    "project_id": "vyom-firebase",
+    "storage_bucket": "vyom-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453352394549:android:be782df21bb196fe22067c",
+        "android_client_info": {
+          "package_name": "com.vyom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453352394549-5thktpklg6pjvnb8elqn4dnhe7btnat6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vyom",
+            "certificate_hash": "67f7e2f5963914f7db3c8377cb5f66b592719d94"
+          }
+        },
+        {
+          "client_id": "453352394549-kqkje3g9rr76g45gt1fsmbqu5rj4ur21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwtRWJVVZ3U7GySwDrG7mOAswCxp2mZk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453352394549-kqkje3g9rr76g45gt1fsmbqu5rj4ur21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
